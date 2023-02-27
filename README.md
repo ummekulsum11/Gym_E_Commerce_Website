@@ -1,5 +1,9 @@
-# Gym_E_Commerce_Website
 # Simple E-Commerce site to sell gym essentials
+.
+.
+.
+.
+.
 
 # Screenshots
 ![Screenshot (304)](https://user-images.githubusercontent.com/72438431/221591088-81feffca-bc97-4256-a851-fe399ef54c32.png)
